@@ -1,2 +1,2 @@
 # Graphics folder
-This folder presents visualizations using the cleaned Airbnb dataset.
+The Notebook in this folder presents visualizations using the cleaned Airbnb dataset.
