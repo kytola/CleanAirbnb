@@ -17,4 +17,4 @@ Specific folders contain further information about the focus of Jupyter Notebook
 
 ## Contributors
 * Jacob Carrasco, Undergraduate Research Fellow, Fall 2020 - Spring 2021
-* Harrison Fernelius, Undergraduate Research Fellow, Fall 2021 - Spring 2022
+* Nat Fernelius, Undergraduate Research Fellow, Fall 2021 - Spring 2022
