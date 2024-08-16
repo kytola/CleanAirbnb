@@ -41,3 +41,5 @@ Saved data/SF_1stStageClean.parquet.gzip
 2. Clean data/Stage1_optimzation.ipynb
 1. Download and compile data/.ipynb_checkpoints/Aggregate Listings Data_update-checkpoint.ipynb
 2. Clean data/.ipynb_checkpoints/1st_stage_panel_data_cleaning_update-checkpoint.ipynb
+*.gzip
+.DS_Store
